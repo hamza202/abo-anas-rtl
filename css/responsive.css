@@ -1,0 +1,558 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .contact-wraper form .submit-btn {
+        padding: 10px 25px;
+    }
+    .quick-link-right {
+        margin-right: 45px;
+    }
+    .about-us span a {
+        margin-top: 17px;
+    }
+    .banner h1 {
+        font-size: 47px;
+    }
+    .caption-info-inner a {
+        padding: 8px 23px;
+    }
+    section {
+	padding: 60px 0 40px;
+}
+    .about-head .heading {
+	margin-top: 0px;
+	margin-bottom: 6px;
+}
+    h3.about-sub-head {
+	margin-bottom: 10px;
+}
+    
+}
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    p.hero-text-mini {
+        font-size: 24px;
+        margin-bottom: 49px;
+    }
+    h2.hero-heading {
+        font-size: 85px;
+    }
+    .about-us .heading {
+	font-size: 30px;
+}
+    .about-us h3 {
+        font-weight: 300;
+        margin-bottom: 14px;
+        font-size: 22px;
+    }
+    .about-us p {
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .about-us span a {
+        font-size: 14px;
+        margin-top: 21px;
+        padding: 7px 19px;
+    }
+    .sin-ser-icon {
+	height: 45px;
+	line-height: 45px;
+	width: 68px;
+	font-size: 35px;
+}
+    .fixed-bg {
+        width: 95%;
+    }
+    .team-area .inner-con-wraper {
+        margin: 0 auto;
+        width: 80%;
+    }
+    .sin-team ,.single-price{
+        margin-bottom: 30px;
+    }
+    #about {
+	padding: 30px 0px 40px;
+}
+.about-inner-wrapper {
+	padding: 30px 50px 0px;
+}
+    .sin-blog-det h3 a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .blog-meta > p {
+        font-size: 12px;
+    }
+    .sin-blog-det > h3 {
+        margin-bottom: 9px;
+    }
+    #googleMap {
+        height: 400px;
+    }
+    .sin-footer-head {
+        margin-bottom: 25px;
+    }
+    section {
+	padding: 60px 0 40px;
+}
+    .footer-social a {
+        font-size: 22px;
+        height: 45px;
+        line-height: 41px;
+        width: 45px;
+        border: 2px solid #4d5055;
+    }
+    .footer-social > ul::before {
+        width: 30%;
+    }
+    .footer-social > ul::after {
+        width: 30%;
+    }
+    .footer-social a:hover {
+        border: 2px solid #ffffff;
+    }
+    .banner h1 {
+        font-size: 37px;
+    }
+    .banner p {
+        color: #ffffff;
+        font-size: 20px;
+        line-height: 27px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .caption-info-inner a {
+        padding: 7px 28px;
+    }
+    .banner .item {
+        height: 690px;
+    }
+    .mixitup-button {
+	margin: 41px 0 16px;
+	padding: 0px 0px;
+}
+    .children-comment {
+	padding-left: 20px;
+}
+.area-head.mar-top {
+    margin-top: 35px;
+}
+.about-image {
+    text-align: center;
+}
+.about-image.padding-left {
+    padding-left: 0;
+}
+    
+}
+
+
+/* small mobile :320px. */
+
+@media only screen and (max-width: 767px) {
+    /*.container{width:320px}*/
+
+    .single-price {
+    margin-bottom: 30px;
+}
+    h2.hero-heading {
+        font-size: 38px;
+    }
+    p.hero-text-mini {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 500;
+        margin-bottom: 35px;
+    }
+    .about-image.padding-left {
+    padding-left: 0;
+}
+    .hero_contain a {
+        background: transparent none repeat scroll 0 0;
+        font-size: 14px;
+        padding: 5px 25px;
+        border: 1px solid #fff;
+    }
+    .hero_contain a:hover {
+        border: 1px solid #db2b1e;
+    }
+    .single-service {
+        margin-bottom: 30px;
+    }
+    .sin-ser-content {
+	padding: 0px 0 0px;
+}
+    .heading {
+        font-size: 25px;
+        font-weight: 400;
+    }
+    .white.navbar-brand {
+	display: none;
+}
+    .dark {
+	display: block;
+}
+    .area-wrapper {
+        padding: 110px 0 40px;
+    }
+    .inner-con-wraper {
+        padding-top: 40px;
+    }
+    .fixed-bg {
+        width: 100%;
+        text-align: center;
+    }
+    .fixed-bg > h2 {
+        float: none;
+        font-size: 23px;
+        font-weight: 300;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .fixed-bg-wrapper {
+        padding: 50px 0;
+    }
+    .fixed-bg a {
+        float: inherit;
+        border: 1px solid #fff;
+        font-size: 14px;
+        padding: 5px 25px;
+    }
+    .fixed-bg a:hover {
+        border: 1px solid #db2b1e;
+    }
+    .mixitup-button {
+        margin: 20px 0 30px;
+        padding: 5px 5px;
+        text-align: left;
+    }
+    .mixitup-button li {
+	display: inline-block;
+	overflow: hidden;
+	padding: 7px 10px;
+	font-size: 12px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+    .team-area {
+        padding: 110px 0 70px;
+    }
+    .sin-team {
+        margin-bottom: 30px;
+    }
+    .client-test > p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .client-test {
+        padding: 0 20px;
+    }
+    .sin-blog {
+        margin-bottom: 30px;
+    }
+    .stick ul.nav > li::before,
+    ul.nav > li::before {
+        display: none;
+    }
+    .area-head p {
+	font-size: 14px;
+	padding: 0 30px;
+}
+    .main-navigation {
+        background: #fff none repeat scroll 0 0;
+        padding-top: 0px;
+    }
+    .main-navigation.style-three {
+    background: #3D4149 none repeat scroll 0 0;
+    }
+    .navbar .navbar-nav > li > a {
+        color: #000;
+    }
+    .main-navigation.style-three .navbar .navbar-nav > li > a {
+    color: #fff;
+    }
+    .main-navigation.style-three .navbar-toggle .icon-bar {
+    background: #F9C31E none repeat scroll 0 0;
+    }
+    .sub-menu {
+    display: none;
+}
+    .navbar .navbar-nav > li > a:hover,
+    .navbar .navbar-nav > li.current > a {
+        color: #db2b1e;
+    }
+    .sin-team-det > h2 {
+        font-size: 19px;
+    }
+    .sin-team-det > span {
+        font-size: 14px;
+    }
+    .client-logo-area {
+        padding: 45px 0;
+    }
+    .contact-wraper {
+        padding: 10px;
+        padding-top: 30px;
+        margin-top: 10px;
+    }
+    .contact-wraper textarea {
+	margin-bottom: 10px;
+}    
+    section {
+	padding: 55px 0 40px;
+    }
+    .map-area {
+	margin-top: 50px;
+}
+    .client-logo-area {
+	padding: 0px 0;
+}
+    .footer-social {
+	margin-top: 25px;
+}
+    .sin-footer-head {
+	margin-bottom: 15px;
+}
+    
+    .sin-add p {
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 0px;
+    }
+    #googleMap {
+        height: 400px;
+    }
+    .footer-widget {
+        padding-bottom: 40px;
+        padding-top: 30px;
+    }
+    .contact-wraper form .submit-btn {
+        font-size: 13px;
+        padding: 6px 8px;
+    }
+    .sin-ser-icon {
+        font-size: 27px;
+        height: 70px;
+        line-height: 70px;
+        width: 70px;
+    }
+    .sin-ser-content > h3 {
+        font-size: 17px;
+    }
+    .heading::before {
+        top: -15px;
+    }
+    .area-wrapper,
+    .team-area,
+    .blog-area {
+        padding: 55px 0 40px;
+    }
+    .contact-area {
+        padding-top: 55px;
+    }
+    .inner-con-wraper {
+        padding-top: 25px;
+    }
+    .testimonial-area {
+        padding: 45px 0px;
+    }
+  
+    .testimonial-head {
+        padding-bottom: 20px;
+    }
+    .about-us .heading::before {
+        border-left: 7px solid rgba(0, 0, 0, 0);
+        border-right: 7px solid rgba(0, 0, 0, 0);
+        border-top: 7px solid #db2b1e;
+        top: 20px;
+    }
+    .about-us span a {
+        font-size: 14px;
+        margin-top: 4px;
+        margin-bottom: 22px;
+    }
+    .about-us.area-wrapper {
+        padding: 40px 0 20px;
+    }
+    .footer-social a {
+        border: 1px solid #4d5055;
+        font-size: 18px;
+        height: 36px;
+        line-height: 34px;
+        width: 36px;
+    }
+    .footer-social a:hover {
+        border: 1px solid #ffffff;
+    }
+    .footer-social > ul::before,
+    .footer-social > ul::after {
+        display: none;
+    }
+    .about-image > img {
+        width: 100%;
+    }
+    .hero_wrapper {
+        height: 500px;
+    }
+    .hero-image {
+        min-height: 500px;
+    }
+    #scrollUp {
+        font-size: 22px;
+        height: 40px;
+        line-height: 37px;
+        right: 14px;
+        width: 40px;
+    }
+    .banner h1 {
+        font-size: 29px;
+        font-weight: 500;
+        line-height: 29px;
+    }
+    .banner p {
+	font-size: 14px;
+	line-height: 23px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+    .caption-info-inner a {
+    font-size: 14px;
+    padding: 3px 17px;
+    line-height: 25px;
+    border: 1px solid #fff;
+    }
+    .control, .control:focus {
+    width: 30px;
+    }
+    .banner .item {
+    height: 490px;
+    }
+    .caption-info {
+    top: 57%;
+    }
+    .children-comment {
+	padding-left: 10px;
+}
+    .commentlists .the-comment .comment-box {
+	margin-left: 50px;
+}
+    .breadcrumb h2 {
+	font-size: 18px;
+}
+    .breadcrumb {
+	padding: 160px 0px 30px;
+}
+    .blog-page-content {
+	padding-top: 10px;
+}
+    .nav li ul.sub-menu {
+	background: #fff;
+	position: relative;
+	transition: .4s;
+	opacity: 1;
+	visibility: visible;
+	left: 0px;
+}
+    .stick .nav li ul.sub-menu {
+	border-top: 0px solid #cd2828;
+}
+.nav li ul.sub-menu li {
+	width: 100%;
+	padding: 8px 15px;
+	border-bottom: 0px solid #ddd;
+}
+    .nav li ul.sub-menu li a {
+	font-weight: 500;
+}
+    .navbar-nav > li > a {
+	padding-bottom: 8px;
+	padding-top: 8px;
+}
+    .nav li ul.sub-menu li a {
+	color: #000;
+}
+.about-sin-num {
+    width: 50%;
+}
+.area-head.mar-top {
+    margin-top: 35px;
+}
+#about {
+    padding: 40px 0 40px;
+}
+    
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .about-image.padding-left {
+    padding: 0 25%;
+}
+    .team-area .col-xs-12, .pricing-plan .col-xs-12  {
+        width: 50%
+    }
+    .single-price p {
+        font-size: 13px;
+    }
+    .sin-team-det > h2 {
+        font-size: 16px;
+    }
+    .sin-team-det > span {
+        font-size: 13px;
+    }
+    .work .work-filter .col-xs-12,
+    .footer-widget .col-xs-12 {
+        width: 50%;
+    }
+    .service .inner-con-wraper,
+    .blog-area .inner-con-wraper,
+    .contact-area .contact-wraper {
+        margin: 0 auto;
+        width: 80%;
+    }
+    .single-footer {
+        height: 195px;
+    }
+    .quick-link-right {
+        margin-right: 10px;
+    }
+    .sin-footer-head {
+        margin-bottom: 25px;
+    }
+    .subscribe-link > input {
+        margin-right: 2%;
+        padding: 10px 13px;
+        width: 66%;
+    }
+    .mail-send {
+        border-radius: 17px;
+        font-size: 13px;
+        padding: 9px 3px;
+        width: 32%;
+    }
+    .footer-social > ul::before,
+    .footer-social > ul::after {
+        display: none;
+    }
+    .footer-social {
+        margin-top: 20px;
+        border-top: 1px solid #4d5055;
+        padding-top: 37px;
+    }
+    .banner h1 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .banner p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .about-sin-num {
+    width: 33.33%;
+}
+}
