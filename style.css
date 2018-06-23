@@ -2586,3 +2586,21 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     left: 10px;
     right: auto;
 }
+/*last update*/
+.lang ul.dropdown-menu{
+    min-width: auto;
+    padding: 0;
+
+}
+.lang ul.dropdown-menu a{
+    padding:5px 5px ;
+}
+.lang ul.dropdown-menu li:not(:first-child) a{
+    border-top:1px solid #e44f99;
+}
+@media (min-width: 767px) {
+    .lang ul.dropdown-menu{
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+}

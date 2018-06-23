@@ -24,13 +24,13 @@
 
 
                             <li><a href="#contact">تواصل معنا</a></li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">اللغة
+                            <li class="dropdown lang">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language
                                     <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">العربية</a></li>
-                                    <li><a href="#">English</a></li>
-                                    <li><a href="#">Türkçe</a></li>
+                                    <li><a href="#"><img src="img/arab.png" alt=""></a></li>
+                                    <li><a href="#"><img src="img/en.png" alt=""></a></li>
+                                    <li><a href="#"><img src="img/turky.png" alt=""></a></li>
                                 </ul>
                             </li>
                         </ul>
